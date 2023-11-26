@@ -1,6 +1,6 @@
 
 # Recommendations with IBM
-This Project mplements different recommendation systems for articles on the IBM Watson Studios platform.
+This Project mplements different recommendation systems for  web articles.
 
 
 ## Table Of Contents
